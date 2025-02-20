@@ -27,3 +27,14 @@ Localizamos la vulnerabilidad que estamos buscando
 
 Si copiamos la vulnerabilidad y nos dirigimos a la página oficial de NIST, podemos encontrar [información ampliada](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=CVE-2024-0204&search_type=all&isCpeNameSearch=false)
 
+_Lo primero que nos salta a la vista es la organización a la que afecta y una nota que califica el impacto de la vulneravilidad_
+
+![](imagenes/4.png)
+
+### Vector de ataque
+
+Si mantenemos el cursor encima del vector de ataque se despliega una ventana con información acerca de los valores utilizados para explotarla
+
+![](imagenes/5.png)
+
+
