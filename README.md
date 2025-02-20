@@ -9,6 +9,8 @@ Tenemos un claro objetivo:
 
 [Analizar las debilidades que la conforman](#Debilidades).
 
+[Encontrar los patrones de ataque empleados](#Patrones).
+
 ## Trazado
 
 Vamos a realizar el trazado de la vulnerabilidad contenida en el [artículo de INCIBE](https://www.incibe.es/empresas/avisos/vulnerabilidad-critica-de-omision-de-autenticacion-en-goanywhere-mft-de-fortra)
