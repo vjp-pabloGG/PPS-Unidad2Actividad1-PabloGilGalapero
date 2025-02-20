@@ -7,6 +7,8 @@ Tenemos un claro objetivo:
 
 [Obtener información de una vulnerabilidad navegando por las webs de los organismos que mantienen esas listas.](#Trazado)
 
+[Analizar las debilidades que la conforman](#Debilidades).
+
 ## Trazado
 
 Vamos a realizar el trazado de la vulnerabilidad contenida en el [artículo de INCIBE](https://www.incibe.es/empresas/avisos/vulnerabilidad-critica-de-omision-de-autenticacion-en-goanywhere-mft-de-fortra)
@@ -37,7 +39,7 @@ Si mantenemos el cursor encima del vector de ataque se despliega una ventana con
 
 ![](imagenes/5.png)
 
-### Debilidades 
+## Debilidades 
 
 El siguiente paso natural es indentificar las debilidades explotadas para descubrir la vulnerabilidad
 
