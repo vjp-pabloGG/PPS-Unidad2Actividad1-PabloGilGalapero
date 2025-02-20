@@ -55,4 +55,12 @@ MIST nos muestra información como:
 
 ![](imagenes/8.png)
 
+#### CWE-288
+
+Si clicamos encima de la debilidad de la que proviene, en este caso se trata de CWE-288, nos redirige a otro apartado [dentro de MITRE](https://cwe.mitre.org/data/definitions/288.html) donde encontramos información acerca de ella
+
+- Patrones de ataque relacionados
+
 ![](imagenes/9.png)
+
+
