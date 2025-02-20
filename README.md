@@ -63,9 +63,16 @@ Si clicamos encima de la debilidad de la que proviene, en este caso se trata de 
 
 ![](imagenes/16.png)
 
-- Patrones de ataque relacionados
+## Patrones de ataque relacionados
+
+Si continuamos desgranando la vulnerabilidad paso por paso nos vamos a topar con los patrones de ataque.
 
 ![](imagenes/9.png)
+
+Tal y como podemos apreciar, el patron de ataque utilizado para explotar la vulneravilidad trazada es CAPEC-87. Pulsando encima nos redirige a [CAPEC](https://capec.mitre.org/data/definitions/87.html)
+
+
+![](imagenes/17.png)
 
 
 
