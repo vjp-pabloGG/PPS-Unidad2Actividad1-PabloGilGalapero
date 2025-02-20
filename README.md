@@ -37,10 +37,18 @@ Si mantenemos el cursor encima del vector de ataque se despliega una ventana con
 
 ![](imagenes/5.png)
 
-### El siguiente paso natural es indentificar las debilidades explotadas para descubrir la vulnerabilidad
+### Debilidades 
+
+El siguiente paso natural es indentificar las debilidades explotadas para descubrir la vulnerabilidad
 
 ![](imagenes/6.png)
 
 Si pinchamos en la debilidad nos va a redirigir a la [página del MITRE](https://cwe.mitre.org/data/definitions/425.html)
 
 ![](imagenes/7.png)
+
+Como podemos ver se trata de un caso en el que la aplicación web no aplica adecuadamente, valga la redundancia, la autorización apropiada en as URL restringidas, scripts o archivos restringidos.
+
+MIST nos muestra información como: ramas parentales (de dónde proviene la debilidad)
+
+![](imagenes/8.png)
