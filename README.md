@@ -71,8 +71,13 @@ Si continuamos desgranando la vulnerabilidad paso por paso nos vamos a topar con
 
 Tal y como podemos apreciar, el patron de ataque utilizado para explotar la vulneravilidad trazada es CAPEC-87. Pulsando encima nos redirige a [CAPEC](https://capec.mitre.org/data/definitions/87.html)
 
-
 ![](imagenes/17.png)
+
+Se trata de un patrón que comienza con un atacante utilizando la navegación forzada (ingreso directo de URLs) para acceder a partes de un sitio web que normalmente están inaccesibles. Por lo general, se emplea un controlador frontal o un patrón de diseño similar para proteger el acceso a ciertas secciones de una aplicación web. La navegación forzada permite al atacante acceder a información, realizar operaciones privilegiadas y entrar a áreas de la aplicación web que no están protegidas correctamente.
+
+_Deslizando encontramos el execution flow donde nos habla de los pasos y técnicas para llevarlo a cabo_
+
+![](imagenes/18.png)
 
 
 
