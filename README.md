@@ -37,4 +37,10 @@ Si mantenemos el cursor encima del vector de ataque se despliega una ventana con
 
 ![](imagenes/5.png)
 
+### El siguiente paso natural es indentificar las debilidades explotadas para descubrir la vulnerabilidad
 
+![](imagenes/6.png)
+
+Si pinchamos en la debilidad nos va a redirigir a la [página del MITRE](https://cwe.mitre.org/data/definitions/425.html)
+
+![](imagenes/7.png)
