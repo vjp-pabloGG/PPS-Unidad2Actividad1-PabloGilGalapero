@@ -23,4 +23,7 @@ Localizamos la vulnerabilidad que estamos buscando
 
 ![](imagenes/3.png)
 
+## Información sobre CVE-2024-0204
+
+Si copiamos la vulnerabilidad y nos dirigimos a la página oficial de NIST, podemos encontrar [información ampliada](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=CVE-2024-0204&search_type=all&isCpeNameSearch=false)
 
