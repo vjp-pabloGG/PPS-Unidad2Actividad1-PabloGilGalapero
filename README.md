@@ -10,3 +10,5 @@ Tenemos un claro objetivo:
 ## Trazado
 
 Vamos a realizar el trazado de la vulnerabilidad contenida en el [artículo de INCIBE](https://www.incibe.es/empresas/avisos/vulnerabilidad-critica-de-omision-de-autenticacion-en-goanywhere-mft-de-fortra)
+
+![](imagenes/1.png)
