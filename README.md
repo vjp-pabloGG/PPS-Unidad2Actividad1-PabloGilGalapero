@@ -13,10 +13,14 @@ Vamos a realizar el trazado de la vulnerabilidad contenida en el [artículo de I
 
 ![](imagenes/1.png)
 
-**Podemos ver una descripción general sobre la vulnerabilidad: "Se ha detectado una vulnerabilidad de severidad crítica en GoAnywhere MFT de Fortra que podría permitir a un ciberdelincuente crear un usuario administrador a través del portal de administración."**
+Podemos ver una descripción general sobre la vulnerabilidad: **"Se ha detectado una vulnerabilidad de severidad crítica en GoAnywhere MFT de Fortra que podría permitir a un ciberdelincuente crear un usuario administrador a través del portal de administración."**
 
 Si deslizamos hacia abajo podemos encontrar una referencia a la página de Fortre donde hay más información sobre lo que buscamos
 
 ![](imagenes/2.png)
+
+Localizamos la vulnerabilidad que estamos buscando
+
+![](imagenes/3.png)
 
 
