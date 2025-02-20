@@ -49,6 +49,10 @@ Si pinchamos en la debilidad nos va a redirigir a la [página del MITRE](https:/
 
 Como podemos ver se trata de un caso en el que la aplicación web no aplica adecuadamente, valga la redundancia, la autorización apropiada en as URL restringidas, scripts o archivos restringidos.
 
-MIST nos muestra información como: ramas parentales (de dónde proviene la debilidad)
+MIST nos muestra información como: 
+
+- Ramas parentales (de dónde proviene la debilidad)
 
 ![](imagenes/8.png)
+
+![](imagenes/9.png)
