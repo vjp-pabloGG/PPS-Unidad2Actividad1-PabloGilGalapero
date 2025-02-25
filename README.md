@@ -81,6 +81,17 @@ _Deslizando encontramos el execution flow donde nos habla de los pasos y técnic
 
 ![](imagenes/18.png)
 
+## Descarga registro CVE
+
+El CVE es el registro de una vulnerabilidad donde podemos encontrar información en formato JSON o XML. Se utiliza este formato para manipular y sacar partido a esta información de forma automatizada con herramientas de seguridad.
+
+_En nuestro caso descargamos en formato JSON_
+
+![](imagenes/14.png)
+
+_Aquí podemos ver información sobre la vulnerabilidad, pudiendo haber contenido adicional a todos los pasos anteriores_
+
+![](imagenes/15.png)
 
 
 
